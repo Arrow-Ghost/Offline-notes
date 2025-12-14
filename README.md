@@ -1,7 +1,7 @@
 # 📝 Notes App - Offline-First Web Application
 
 A production-ready, offline-first notes application with beautiful UI, smooth animations, and automatic synchronization.
-
+## Note: Kindly put these files under backend before running (instance ,venv, app, requirments)
 ## ✨ Features
 
 ### Core Features
@@ -308,4 +308,5 @@ Built with ❤️ focusing on:
 ---
 
 **Enjoy your offline-first notes app!** 📝✨
+
 
